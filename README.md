@@ -10,3 +10,9 @@ To install, first download the repository as a zip folder from the code's dropdo
 From Blender, navigate to `Edit > Preferences`.
 
 ![Edit > Preferences](assets/edit_preferences.png)
+
+In the left sidebar, select "Add-ons". From the top left dropdown, select "Install from Disk...".
+
+![Preferences dropdown](assets/preferences_dropdown.png)
+
+A file dialog will pop-up. Navigate to and select the gear_up zip folder that you downloaded.
