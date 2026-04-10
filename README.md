@@ -21,6 +21,6 @@ A file dialog will pop-up. Navigate to and select the gear_up zip folder that yo
 
 # Usage
 
-To add a new gear, navigate to `Add > Mesh > Gear`.
+To add a new gear, navigate to `Add > Mesh > Gear`. Note that this also works with the shortcut key `Ctrl + A`.
 
 ![Add a gear](assets/add_menu.png)
