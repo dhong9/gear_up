@@ -18,3 +18,9 @@ In the left sidebar, select "Add-ons". From the top left dropdown, select "Insta
 A file dialog will pop-up. Navigate to and select the gear_up zip folder that you downloaded. The "Gear Up" add-on will automatically be enabled upon installation.
 
 ![Gear up selection](assets/add_on_selection.png)
+
+# Usage
+
+To add a new gear, navigate to `Add > Mesh > Gear`.
+
+![Add a gear](assets/add_menu.png)
