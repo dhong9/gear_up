@@ -26,5 +26,10 @@ To add a new gear, navigate to `Add > Mesh > Gear`. Note that this also works wi
 ![Add a gear](assets/add_menu.png)
 
 There will be a menu with customizable settings.
+* Outer Radius - Radius from gear's center to the teeth's outermost point
+* Inner Radius - Radius from gear's center to the inner ring
+* Depth - Gear's thickness
+* Teeth - Number of teeth
+* Tooth Depth - Distance from the teeth's points to the teeth's valleys
 
 ![Gear settings](assets/add_gear_menu_labels.png)
